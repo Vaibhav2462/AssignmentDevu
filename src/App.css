@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+
+.form{
+  border: 2px solid;
+    padding: 2rem;
+    border-radius: 7px;
+}
+.field{
+  font-size: x-large;
+    margin-bottom: 3rem;
+}
+.textIP{
+  margin-left: 8rem;
+    border: 2px solid;
+    width: 22rem;
+}
+.selectAge{
+  margin-left: 8rem;
+    width: 10rem;
+    font-size: large;
+    border: 2px solid;
+}
+.radioBTN{
+  position: absolute;
+    left: 17rem;
+    top: 21rem;
+}
+.main{
+  padding: 4rem;
+}
+.details{
+  margin-left: 4rem;
+    font-weight: 500;
+    font-size: larger;
+}
+.btn{
+  font-weight: 700;
+    border: 3px solid;
+    border-radius: 6px;
+    height: 2rem;
+    width: 6rem;
+    margin-top: 3rem
+}
